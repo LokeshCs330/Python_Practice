@@ -3,4 +3,4 @@ def table(num):
         result = num * i
         print(f"{i} * {num} = {result}")
 
-table(10)
+table(18)
